@@ -4,3 +4,5 @@ RESOLUSI ANDIKA :
 - jika sudah membuat website pribadi, memulai untuk project project dummy yang nantinya akan di upload ke github
 - dimulai dari project bahasa python, java, css, js, dllnya
 - konsisten untuk terus belajar
+
+Target sekarang : Data analyst, Data Scientist, Web Development
