@@ -1,0 +1,6 @@
+RESOLUSI ANDIKA :
+- Konsisten untuk belajar github dan git di awal rencana
+- Jika sudah mengerti, mencoba untuk membuat website pribadi untuk tempat portofolio
+- jika sudah membuat website pribadi, memulai untuk project project dummy yang nantinya akan di upload ke github
+- dimulai dari project bahasa python, java, css, js, dllnya
+- konsisten untuk terus belajar
